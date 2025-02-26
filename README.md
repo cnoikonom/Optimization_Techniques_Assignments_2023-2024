@@ -49,7 +49,7 @@ The first assignment focuses on fundamental optimization methods, including:
 - **Golden Ratio Method**: A method using the golden ratio to optimize function evaluations efficiently.
 
 ### Third Assignment
-The third assignment involves advanced optimization techniques and their MATLAB implementation. It includes:
+The third assignment involves the Steepest Projected Descent technique and its MATLAB implementation. It includes:
 - **Projection Method (projection_rect.m)**: A function for projecting values within a constrained space.
 - **Main Assignment Script (third_assignment.m)**: Executes the optimization procedure for this assignment.
 
